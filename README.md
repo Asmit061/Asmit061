@@ -40,7 +40,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    [![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmit061&show_icons=true&theme=radical)]
+    ![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmit061&show_icons=true&theme=radical)
 
 
 </details>
