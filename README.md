@@ -42,12 +42,6 @@
   <summary>:zap: GitHub Stats</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=Asmit061&theme=radical&show_icons=true" alt="Asmit's github statistics"/>
 </details>
-<details>
-    <summary>:zap: Top Languages</summary>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit061&theme=radical&layout=compact&hide=Jupyter%20Notebookt)
-
-
-</details>
 
 [facebook]: https://www.facebook.com/asmitdecruz
 [instagram]: https://www.instagram.com/
