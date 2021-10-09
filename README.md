@@ -40,9 +40,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    ![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmit061&show_icons=true&theme=radical)
-
-
+    <img src="https://github-readme-stats.vercel.app/api?username=Asmit061&theme=radical&show_icons=true" alt="Asmit's github statistics"/>
 </details>
 <details>
     <summary>:zap: Top Languages</summary>
