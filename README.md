@@ -40,13 +40,13 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmit061&show_icons=true&theme=radical)
+    ![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmit061&show_icons=true&theme=radical)
 
 
 </details>
 <details>
     <summary>:zap: Top Languages</summary>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit061&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit061&layout=compact)](https://github.com/Asmit061/github-readme-stats)
 
 
 </details>
