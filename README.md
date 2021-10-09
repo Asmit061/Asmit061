@@ -44,7 +44,7 @@
 </details>
 <details>
     <summary>:zap: Top Languages</summary>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit061&layout=compact)](https://github.com/Asmit061/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit061&theme=radical&layout=compact&hide=Jupyter%20Notebookt)
 
 
 </details>
